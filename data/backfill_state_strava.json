@@ -1,0 +1,13 @@
+{
+  "activity_scope": {
+    "exclude_types": [],
+    "include_all_types": true
+  },
+  "after": 0,
+  "completed": true,
+  "last_run_utc": "2026-04-08T16:43:45.891578+00:00",
+  "newest_seen_ts": 1775476979,
+  "next_before": null,
+  "oldest_seen_ts": 1693211826,
+  "rate_limited": false
+}
