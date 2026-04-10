@@ -1620,8 +1620,8 @@
     {
       "date": "2026-04-09",
       "hour": 12,
-      "subtype": "WeightTraining",
-      "type": "WeightTraining",
+      "subtype": "Workout",
+      "type": "Workout",
       "year": 2026
     }
   ],
@@ -3560,17 +3560,6 @@
           "moving_time": 4057.0
         }
       },
-      "WeightTraining": {
-        "2026-04-09": {
-          "activity_ids": [
-            "18039782412"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 726.0
-        }
-      },
       "Workout": {
         "2026-01-13": {
           "activity_ids": [
@@ -3661,11 +3650,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1475.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18039782412"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 726.0
         }
       }
     }
   },
-  "generated_at": "2026-04-09T16:14:31.067050+00:00",
+  "generated_at": "2026-04-10T15:43:19.550916+00:00",
   "other_bucket": "OtherSports",
   "repo": "josephkdaniels/git-sweaty",
   "source": "strava",
