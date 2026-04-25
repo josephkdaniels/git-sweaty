@@ -3086,11 +3086,11 @@
     "elevation_gain": 0.0,
     "id": "18237532861",
     "moving_time": 1451.0,
-    "name": "Lunch Weight Training",
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
+    "name": "Running S&C",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
     "start_date_local": "2026-04-24T12:04:17Z",
-    "type": "WeightTraining",
+    "type": "Workout",
     "year": 2026
   }
 ]
