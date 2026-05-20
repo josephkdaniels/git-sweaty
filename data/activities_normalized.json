@@ -3196,5 +3196,18 @@
     "start_date_local": "2026-05-15T09:10:33Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 8572.8,
+    "elevation_gain": 0.0,
+    "id": "18581132589",
+    "moving_time": 2905.0,
+    "name": "Lunch Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-20T12:40:23Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]

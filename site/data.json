@@ -1721,6 +1721,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 12,
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3391,6 +3398,17 @@
       }
     },
     "2026": {
+      "Rowing": {
+        "2026-05-20": {
+          "activity_ids": [
+            "18581132589"
+          ],
+          "count": 1,
+          "distance": 8572.8,
+          "elevation_gain": 0.0,
+          "moving_time": 2905.0
+        }
+      },
       "Run": {
         "2026-01-10": {
           "activity_ids": [
@@ -3889,7 +3907,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:35:07.464598+00:00",
+  "generated_at": "2026-05-20T17:50:26.828236+00:00",
   "other_bucket": "OtherSports",
   "repo": "josephkdaniels/git-sweaty",
   "source": "strava",
@@ -3905,6 +3923,10 @@
     "Ride": {
       "accent": "#05ffa1",
       "label": "Ride"
+    },
+    "Rowing": {
+      "accent": "#fee440",
+      "label": "Rowing"
     },
     "Run": {
       "accent": "#01cdfe",
@@ -3935,6 +3957,7 @@
     "Hike",
     "Pickleball",
     "Ride",
+    "Rowing",
     "Run",
     "TrailRun",
     "Walk",
