@@ -1742,6 +1742,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 9,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3594,6 +3601,15 @@
           "distance": 3675.8,
           "elevation_gain": 9.0,
           "moving_time": 1275.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18712163582"
+          ],
+          "count": 1,
+          "distance": 5103.6,
+          "elevation_gain": 45.0,
+          "moving_time": 1883.0
         }
       },
       "Walk": {
@@ -3939,7 +3955,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:08:20.349825+00:00",
+  "generated_at": "2026-05-30T15:59:59.820769+00:00",
   "other_bucket": "OtherSports",
   "repo": "josephkdaniels/git-sweaty",
   "source": "strava",
