@@ -3261,5 +3261,18 @@
     "start_date_local": "2026-06-04T10:05:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 8462.4,
+    "elevation_gain": 696.0,
+    "id": "18842146049",
+    "moving_time": 9380.0,
+    "name": "Up and down Beacon Hill six times for the love of the game",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-08T18:07:27Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
