@@ -3287,5 +3287,18 @@
     "start_date_local": "2026-06-22T18:16:21Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 167780.0,
+    "elevation_gain": 910.6,
+    "id": "19051653551",
+    "moving_time": 2580.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-24T17:04:28Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
