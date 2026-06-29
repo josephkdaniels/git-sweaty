@@ -3300,5 +3300,18 @@
     "start_date_local": "2026-06-24T17:04:28Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 24077.2,
+    "elevation_gain": 90.0,
+    "id": "19111808703",
+    "moving_time": 5232.0,
+    "name": "A mostly-complete pub tour (brought to a halt by a puncture \ud83d\ude22)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-29T12:15:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
