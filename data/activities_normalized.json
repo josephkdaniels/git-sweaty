@@ -3313,5 +3313,31 @@
     "start_date_local": "2026-06-29T12:15:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 16334.2,
+    "elevation_gain": 370.0,
+    "id": "19115500353",
+    "moving_time": 12592.0,
+    "name": "An evening trek around Kingsclere",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-29T17:44:36Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 9166.8,
+    "elevation_gain": 65.2,
+    "id": "19122786112",
+    "moving_time": 7137.0,
+    "name": "Pilgrimage to The Street Bakeshop \ud83e\udd50",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-30T10:05:13Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
