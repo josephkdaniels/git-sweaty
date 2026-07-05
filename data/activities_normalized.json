@@ -3339,5 +3339,31 @@
     "start_date_local": "2026-06-30T10:05:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 2712.6,
+    "elevation_gain": 31.0,
+    "id": "19179336909",
+    "moving_time": 519.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-04T17:51:20Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 2728.6,
+    "elevation_gain": 18.8,
+    "id": "19181748266",
+    "moving_time": 2667.0,
+    "name": "On the hunt for glow worms \ud83d\udd75\ud83c\udffb\u200d\u2642\ufe0f\ud83d\udc1b\ud83d\udd26",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-04T22:03:19Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
