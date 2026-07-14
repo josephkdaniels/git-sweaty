@@ -3404,5 +3404,31 @@
     "start_date_local": "2026-07-13T15:27:24Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 29780.8,
+    "elevation_gain": 259.8,
+    "id": "19300905793",
+    "moving_time": 7308.0,
+    "name": "A puncture-free cycle?! \ud83d\ude33",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-13T18:09:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 24813.3,
+    "elevation_gain": 489.0,
+    "id": "19311184132",
+    "moving_time": 16061.0,
+    "name": "Speedy trek with Keith",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-14T11:14:36Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

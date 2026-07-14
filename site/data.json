@@ -1833,6 +1833,20 @@
       "subtype": "Workout",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 18,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 11,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3530,6 +3544,15 @@
           "distance": 16334.2,
           "elevation_gain": 370.0,
           "moving_time": 12592.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19311184132"
+          ],
+          "count": 1,
+          "distance": 24813.3,
+          "elevation_gain": 489.0,
+          "moving_time": 16061.0
         }
       },
       "Ride": {
@@ -3559,6 +3582,15 @@
           "distance": 40310.3,
           "elevation_gain": 244.0,
           "moving_time": 9985.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19300905793"
+          ],
+          "count": 1,
+          "distance": 29780.8,
+          "elevation_gain": 259.8,
+          "moving_time": 7308.0
         }
       },
       "Rowing": {
@@ -4151,7 +4183,7 @@
       }
     }
   },
-  "generated_at": "2026-07-13T17:08:48.770314+00:00",
+  "generated_at": "2026-07-14T16:09:01.180490+00:00",
   "other_bucket": "OtherSports",
   "repo": "josephkdaniels/git-sweaty",
   "source": "strava",
