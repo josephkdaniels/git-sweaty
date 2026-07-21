@@ -3430,5 +3430,18 @@
     "start_date_local": "2026-07-14T11:14:36Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 13683.2,
+    "elevation_gain": 937.0,
+    "id": "19403681567",
+    "moving_time": 13787.0,
+    "name": "Helvellyn and Catstycam",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-21T08:47:03Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
