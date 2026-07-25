@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:21:05.773016+00:00",
+  "generated_at": "2026-07-25T15:58:28.634473+00:00",
   "years": {
     "2023": {
       "Hike": {
@@ -1751,6 +1751,15 @@
           "distance": 29780.8,
           "elevation_gain": 259.8,
           "moving_time": 7308.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19458171873"
+          ],
+          "count": 1,
+          "distance": 10812.7,
+          "elevation_gain": 103.0,
+          "moving_time": 1717.0
         }
       },
       "Rowing": {
