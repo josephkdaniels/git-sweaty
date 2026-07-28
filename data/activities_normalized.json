@@ -3456,5 +3456,31 @@
     "start_date_local": "2026-07-25T12:46:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 1475.3,
+    "elevation_gain": 2.0,
+    "id": "19496772189",
+    "moving_time": 412.0,
+    "name": "Dash home after dropping off the car \ud83d\ude97",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T10:05:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 2435.0,
+    "elevation_gain": 35.0,
+    "id": "19499762979",
+    "moving_time": 425.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-28T13:52:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
