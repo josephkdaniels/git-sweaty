@@ -3560,5 +3560,18 @@
     "start_date_local": "2026-08-05T16:33:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 5087.9,
+    "elevation_gain": 45.0,
+    "id": "19651327125",
+    "moving_time": 1775.0,
+    "name": "Parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T09:07:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
