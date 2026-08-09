@@ -3573,5 +3573,31 @@
     "start_date_local": "2026-08-08T09:07:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 2727.5,
+    "elevation_gain": 9.0,
+    "id": "19659845253",
+    "moving_time": 2085.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-08T13:37:58Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 8812.9,
+    "elevation_gain": 20.0,
+    "id": "19659845282",
+    "moving_time": 3348.0,
+    "name": "Tearing up Dinton Pastures on Buggies",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-08T14:39:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
