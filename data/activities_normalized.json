@@ -3619,10 +3619,23 @@
     "elevation_gain": 1336.0,
     "id": "19761903842",
     "moving_time": 19415.0,
-    "name": "Ben Nevis \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "name": "Ben Nevis",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-08-16T02:11:32Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 8915.8,
+    "elevation_gain": 919.0,
+    "id": "19771092302",
+    "moving_time": 12107.0,
+    "name": "Scafell Pike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-16T15:49:23Z",
     "type": "Hike",
     "year": 2026
   }
