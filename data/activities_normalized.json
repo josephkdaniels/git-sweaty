@@ -3872,5 +3872,31 @@
     "start_date_local": "2026-10-07T18:06:54Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 1355.3,
+    "elevation_gain": 2.0,
+    "id": "20507886328",
+    "moving_time": 1072.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-08T17:07:12Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 11097.6,
+    "elevation_gain": 26.0,
+    "id": "20508509362",
+    "moving_time": 3078.0,
+    "name": "Afternoon Cruise \ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-08T17:30:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
