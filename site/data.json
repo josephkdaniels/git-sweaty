@@ -2155,6 +2155,20 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 10,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 11,
+      "subtype": "Pickleball",
+      "type": "Pickleball",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3900,6 +3914,17 @@
           "moving_time": 4409.0
         }
       },
+      "Pickleball": {
+        "2026-10-26": {
+          "activity_ids": [
+            "20739357197"
+          ],
+          "count": 1,
+          "distance": 1376.9,
+          "elevation_gain": 0.0,
+          "moving_time": 2307.0
+        }
+      },
       "Ride": {
         "2026-06-29": {
           "activity_ids": [
@@ -4666,6 +4691,15 @@
           "distance": 2412.9,
           "elevation_gain": 50.0,
           "moving_time": 1906.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20738339065"
+          ],
+          "count": 1,
+          "distance": 2635.2,
+          "elevation_gain": 41.0,
+          "moving_time": 1903.0
         }
       },
       "WeightTraining": {
@@ -4863,7 +4897,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T18:00:38.275009+00:00",
+  "generated_at": "2026-10-26T20:14:14.442559+00:00",
   "other_bucket": "OtherSports",
   "repo": "josephkdaniels/git-sweaty",
   "source": "strava",

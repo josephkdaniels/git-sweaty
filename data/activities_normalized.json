@@ -4002,5 +4002,31 @@
     "start_date_local": "2026-10-23T14:43:56Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 2635.2,
+    "elevation_gain": 41.0,
+    "id": "20738339065",
+    "moving_time": 1903.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-26T10:30:17Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 1376.9,
+    "elevation_gain": 0.0,
+    "id": "20739357197",
+    "moving_time": 2307.0,
+    "name": "Lunch Pickleball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pickleball",
+    "start_date_local": "2026-10-26T11:34:19Z",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
