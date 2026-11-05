@@ -4028,5 +4028,18 @@
     "start_date_local": "2026-10-26T11:34:19Z",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 7404.0,
+    "elevation_gain": 36.0,
+    "id": "20861968055",
+    "moving_time": 5546.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-04T14:48:30Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
