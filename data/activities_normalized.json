@@ -4067,5 +4067,31 @@
     "start_date_local": "2026-11-12T09:58:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 5027.3,
+    "elevation_gain": 38.0,
+    "id": "20981010206",
+    "moving_time": 1800.0,
+    "name": "Parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T09:05:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 10382.7,
+    "elevation_gain": 124.0,
+    "id": "20987101829",
+    "moving_time": 3114.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-14T15:36:31Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
