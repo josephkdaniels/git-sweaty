@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:38:03.208387+00:00",
+  "generated_at": "2026-11-15T20:03:17.738985+00:00",
   "years": {
     "2023": {
       "Hike": {
@@ -2571,9 +2571,9 @@
             "20987101829"
           ],
           "count": 1,
-          "distance": 10382.7,
-          "elevation_gain": 124.0,
-          "moving_time": 3114.0
+          "distance": 2639.4,
+          "elevation_gain": 45.4,
+          "moving_time": 2330.0
         }
       },
       "WeightTraining": {
