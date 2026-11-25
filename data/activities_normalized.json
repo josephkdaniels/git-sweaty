@@ -4119,5 +4119,31 @@
     "start_date_local": "2026-11-24T15:04:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 59749.3,
+    "elevation_gain": 424.8,
+    "id": "21118945586",
+    "moving_time": 3442.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-25T10:45:50Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 11505.8,
+    "elevation_gain": 80.0,
+    "id": "21121169936",
+    "moving_time": 2088.0,
+    "name": "Afternoon Cycle",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-25T15:23:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
